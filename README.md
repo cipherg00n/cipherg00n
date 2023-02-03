@@ -1,5 +1,5 @@
 <h1 align="center">C. Goon </h1>
-<h3 align="center">My passion is in digital currencies, fraud, social engineering, and cryptography based currency. </h3>
+<h3 align="center">I prefer the term social engineering. </h3>
 
 <h4 align="center">Just some buttons that I felt needed to be copy pasted. .</h4>
 
